@@ -3,5 +3,9 @@ changes again
 i ma changing on 13may
 feature 1
 feature 2
+
 NOw i m commit in master w/o feature
 NOw i m commit in master w/o feature 2nt time
+feature 3
+feature 4
+
