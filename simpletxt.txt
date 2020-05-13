@@ -2,3 +2,4 @@ Simple text file
 changes again
 i ma changing on 13may
 feature 1
+feature 2
